@@ -1,0 +1,12 @@
+{
+  "auto_fetch_osm": true,
+  "overpass_endpoint": "https://overpass-api.de/api/interpreter",
+  "overpass_timeout_sec": 25,
+  "auto_fetch_margin_deg": 0.03,
+  "cache_cleanup_enabled": true,
+  "cache_keep_max_files": 20,
+  "notebook_cache_keep_max_files": 160,
+  "ml_penalty_min": 0.0,
+  "ml_penalty_max": 1.8,
+  "ml_penalty_bpr_blend": 0.35
+}
